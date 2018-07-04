@@ -1,0 +1,154 @@
+/* GENERAL */
+body {
+    padding-top: 50px; /* Because of navbar-fixed-top */
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    font-size: 16px;
+}
+
+h1, h2, h3, p {
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}
+
+h1 {
+    font-size: 23px;
+    font-weight: 900;
+    line-height: 23px;
+}
+
+h2 {
+	font-size: 17px;
+	font-weight: 700;
+	line-height: 20px;
+}
+
+h3 {
+	font-size: 17px;
+	font-weight: 500;
+	line-height: 23px;
+}
+
+p {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 20px;
+    margin: 3px 0 3px 0;
+}
+
+img {
+    padding: 10px 0;
+}
+
+a:visited {
+    border: none;
+}
+
+a:hover {
+    border: none;
+}
+
+/* BACKGROUNDS */
+.bg-1 {
+    background: #454E6D; /* For browsers that do not support gradients */
+    background: linear-gradient(-30deg, #454E6D, #5e6b93);
+    color: white;
+}
+
+/* NAVBAR */
+.navigation {
+    padding: 0 5px;
+}
+
+#myNavbar a {
+    transition: border-bottom 0.2s;
+    padding: 5px 0 3px;
+    border-bottom: 2px solid #f8f8f8;
+    margin: 10px 15px 7px;
+    text-transform: uppercase;
+}
+
+#myNavbar a:hover {
+    border-bottom: 2px solid #5e6b93;
+}
+
+/* JUMBOTRON */
+.jumbo {
+    margin-bottom: 20px;
+}
+
+.jumbo-title {
+    font-size: 30px;
+    margin: 30px 0 30px 0;
+    padding: 0;
+    border: 0;
+}
+
+.phone-number {
+    color: white;
+}
+
+.phone-number:visited {
+    text-decoration: none;
+}
+
+.phone-number:hover {
+    color: #48c96f;
+    text-decoration: none;
+}
+
+/* INDEX */
+.uslugi {
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+/* ARTICLES */
+.articles a {
+    color: white;
+}
+
+.articles p {
+    font-size: 17px;
+    font-style: oblique;
+    transition: all 0.5s;
+    background-color: #5e6b93;
+    padding: 10px;
+}
+
+.articles p:hover {
+    background-color: #454E6D;
+}
+
+.articles a:hover {
+    text-decoration: none;
+}
+
+/* FOOTER */
+footer {
+    margin-top: 20px;
+}
+
+footer h1 {
+    margin-bottom: 20px;
+}
+
+footer a {
+    color: white;
+    transition: color 0.5s;
+}
+
+footer a:hover {
+    color: #a9bde8;
+}
+
+.copyrights {
+    color: #aaa;
+    margin: 20px;
+}
+
+/* GALLERY */
+.gallery
+{
+    display: inline-block;
+    margin-top: 20px;
+}
+

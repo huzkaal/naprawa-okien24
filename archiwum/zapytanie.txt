@@ -1,0 +1,8 @@
+Dzieñ dobry,
+
+w jaki sposób mo¿na umieœciæ kod Ÿród³owy strony (napisany w³asnorêcznie) na mojej domenie?
+Chodzi mi o pliki formatów: html, css, js. Chcia³bym, ¿eby moja strona dzia³a³a na ich podstawie, a nie na podstawie Kreatora WWW.
+Moja domena to: www.naprawa-okien24.pl
+
+Z wyrazami szacunku,
+Jaros³aw Ko³acz
